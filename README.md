@@ -5,11 +5,12 @@ This repository holding a end-to-end dashboard report on Airbnb business in the 
 <br><br>
 
 ### Dataset
-The dataset used in this project is from [Inside Airbnb](http://insideairbnb.com/get-the-data.html)<br><br>
+The dataset used in this project is from [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+<br><br>
 
 ### Contributor
 [Nicole Tang](https://github.com/coletangsy/) , [Issac Lee](https://github.com/IsaacLmk)  , [Kimberly Cheung](https://www.linkedin.com/in/kimberley-vanessa-cheung-athlete-fencing-data-professional)
-
+<br><br>
 
 ### Content
 |       | Document                            | Progress | Version | Links    |
